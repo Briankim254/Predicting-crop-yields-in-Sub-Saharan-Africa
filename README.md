@@ -56,7 +56,10 @@
 <summary><h1> Exploratory Data Analysis </h1></summary>
 
 ## Exploratory Data Analysis process
+ -EDA (Exploratory Data Analysis):  it involves exploring and analyzing data to understand its characteristics and relationships between features. EDA in our project has help in gaining insights about the data, identifying patterns, and detecting anomalies.
+ 
 ## Exploratory Data Analysis outcomes
+ -In this project we have used Pandas profiling and Sweetviz libraries that are used for exploratory data analysis. Both libraries provide a quick and automated way to generate a comprehensive report of the data, including summary statistics, data quality issues, and visualizations. Pandas profiling library generates a report that contains descriptive statistics of each feature in the dataset while Sweetviz generates a comparison report between two datasets.
 </details>
 
 <details>
