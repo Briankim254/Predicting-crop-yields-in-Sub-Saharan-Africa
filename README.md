@@ -73,7 +73,13 @@
 <summary><h1> Feature Engineering </h1></summary>
 
 ## Feature engineering process
+ -Data cleansing.
+ -Data transformation.
+ -Feature extraction.
+ -Feature selection.
+ 
 ## Features description
+ 
 </details>
 
 <details>
