@@ -41,7 +41,15 @@
 <summary><h1> Data Acquisition </h1></summary>
 
 ## Source Systems
+ -The data for this project was obtained and analysed in GYGA. The dataset consists of all the 9 Sub-Saharan countries with three sheets; Country, climate zone and station.
+ 
 ## Data Acquisition process
+- Data collection: This is the first phase of data acquisition process and the file is in an excel format.
+- Data Extarction: After uploading the data in our working environment and exported it into dataframes.
+- Data cleaning: It involves checking of any missing values, duplicates and inconsistencies in our data.
+- Data preparation: Transforming raw data i.e to remove outliers or anomalies to make accurate predictions in our project. 
+- Data analysis: To find trends, patterns, and insights we managed to use data analysis. 
+
 </details>
 
 <details>
