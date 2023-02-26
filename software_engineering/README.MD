@@ -11,7 +11,8 @@
 # REVERSE STRING
 
 # It takes a string as input and returns a new string of characters in reverse order.
-![rString](https://user-images.githubusercontent.com/50330948/221389770-32832b3a-b01b-4066-8a4c-e73c90c8f637.png)
+
+![rString2](https://user-images.githubusercontent.com/50330948/221389887-5d537009-1439-4cc8-a2b5-6e278fc7beb6.png)
 
 
 @Haxor44
