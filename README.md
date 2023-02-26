@@ -66,7 +66,17 @@
 <summary><h1> Data Cleaning </h1></summary>
 
 ## Data cleaning process
+ 1. Removing duplicate observations
+ 2. Filtering unwanted outliers
+ 3. Fixing structural errors
+ 4. Fixing missing data
+ 5. Validating data
+ 
 ## Data cleaning outcomes
+ 1. Improved data quality which is consistent
+ 2. Obtaining distinct data sets
+ 3. Obtaining relevant data
+ 
 </details>
 
 <details>
@@ -90,7 +100,7 @@
 'AREA_IN_CLIMATEZONE_HA'
 
 Target variable is 'YA'
- </details>
+</details>
 
 <details>
 <summary><h1> Model Development </h1></summary>
