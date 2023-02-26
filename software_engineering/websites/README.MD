@@ -23,7 +23,7 @@
 
 @Haxor 44 
 
-# SLEEPTRACKER
+# SLEEP TRACKER
 #It tracks an individual sleeping hours
 ![sleeps](https://user-images.githubusercontent.com/50330948/221390477-2a4fe89f-7271-4e86-bc2b-23cceab84939.png)
 
