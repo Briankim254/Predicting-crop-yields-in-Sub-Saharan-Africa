@@ -109,6 +109,7 @@ Target variable is 'YA'
  The development of the project involves using supervised learning techniques to create a model. In this approach, the machine is given labeled data consisting of input and output pairs. Using this data, the computer learns to construct a model that can map new input data to the corresponding output and as well make predictions.
  
 ## Model justification
+To evaluate the model's overall performance, F1 score takes into account both precision and recall. A high F1 score indicates superior model performance. Additionally, the F1 score can be used to determine if the model is overfitting.
 </details>
 
 <details>
@@ -117,7 +118,7 @@ Target variable is 'YA'
 ## Metrics used
 - To evaluate the overall effectiveness of the model, F1 score, which combines precision and recall into one score, was utilized as the criterion. In order to provide a comprehensive assessment of the model's performance, it considers both precision and recall. The R2 score in a regression model measures the percentage of variance in the dependent variable that is explained by the independent variables.
 ## Metrics justification
- - A higher F1-score suggests that the model is performing better overall and check the model if it is overfitting.
+ - A higher F1-score suggests that the model is performing better and it detects overfitting in the model.
  
 ## Results
  -The model training accuracy was 87%. The F1 score which was 0.98. This means that the model was good.
