@@ -103,8 +103,11 @@ Target variable is 'YA'
 <summary><h1> Model Evaluation </h1></summary>
 
 ## Metrics used
+- To evaluate the overall effectiveness of the model, F1 score, which combines precision and recall into one score, was utilized as the criterion. In order to provide a comprehensive assessment of the model's performance, it considers both precision and recall. The R2 score in a regression model measures the percentage of variance in the dependent variable that is explained by the independent variables.
 ## Metrics justification
+ - A higher F1-score suggests that the model is performing better overall and check the model if it is overfitting.
 ## Results
+ -
 ## Conclusions
 </details>
 
