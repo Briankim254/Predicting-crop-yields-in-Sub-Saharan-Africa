@@ -90,6 +90,7 @@
  
 ## Features description
  Independent variables:
+
   'YW'                                                
   'YP'                                                    
   'WPA'                           
