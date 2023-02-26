@@ -1,4 +1,4 @@
-# PCYSA
+# Machine Learning Model to Predict Crop Yields in Sub-Saharan Africa
 ### Devs
 1.
 2.
