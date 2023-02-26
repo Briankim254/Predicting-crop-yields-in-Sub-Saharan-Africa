@@ -73,6 +73,10 @@
  5. Validating data
  
 ## Data cleaning outcomes
+ 1. Improved data quality which is consistent
+ 2. Obtaining distinct data sets
+ 3. Obtaining relevant data
+ 
 </details>
 
 <details>
