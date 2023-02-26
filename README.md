@@ -3,8 +3,8 @@
 1.
 2.
 3.
-4.
-5.
+4. [Francis Mayieka](https://github.com/francis-100)
+5. [Marcellus Kimutai](https://github.com/marcellus-kimutai)
 6.
 
 <details>
