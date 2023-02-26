@@ -1,4 +1,6 @@
 # Machine Learning Model to Predict Crop Yields in Sub-Saharan Africa
+Link to the live application - https://yieldpredictor.streamlit.app/
+
 ### Devs
 1. [Brian Kimutai](https://github.com/Briankim254)
 2. [Antoinette Akinyi](https://github.com/kisha-net)
