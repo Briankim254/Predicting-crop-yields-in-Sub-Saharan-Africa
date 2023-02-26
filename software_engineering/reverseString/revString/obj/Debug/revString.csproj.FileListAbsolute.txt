@@ -1,0 +1,11 @@
+D:\Luna\revString\revString\bin\Debug\revString.exe.config
+D:\Luna\revString\revString\bin\Debug\revString.exe
+D:\Luna\revString\revString\bin\Debug\revString.pdb
+D:\Luna\revString\revString\obj\Debug\revString.csproj.AssemblyReference.cache
+D:\Luna\revString\revString\obj\Debug\revString.csproj.SuggestedBindingRedirects.cache
+D:\Luna\revString\revString\obj\Debug\revString.Form1.resources
+D:\Luna\revString\revString\obj\Debug\revString.Properties.Resources.resources
+D:\Luna\revString\revString\obj\Debug\revString.csproj.GenerateResource.cache
+D:\Luna\revString\revString\obj\Debug\revString.csproj.CoreCompileInputs.cache
+D:\Luna\revString\revString\obj\Debug\revString.exe
+D:\Luna\revString\revString\obj\Debug\revString.pdb
