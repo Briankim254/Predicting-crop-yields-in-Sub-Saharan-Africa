@@ -3,7 +3,7 @@ import pickle
 import os
 
 #load the model from the pickle file throught os
-model = pickle.load(open(os.path.join('droped_model.pkl'),'rb'))
+model = pickle.load(open(os.path.join('optimum_model.pkl'),'rb'))
 
 
 # create a function that will take the inputs from the user
