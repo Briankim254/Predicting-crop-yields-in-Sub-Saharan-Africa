@@ -96,7 +96,11 @@ Target variable is 'YA'
 <summary><h1> Model Development </h1></summary>
 
 ## Model development approach
+ The development of the project involves using supervised learning techniques to create a model. In this approach, the machine is given labeled data consisting of input and output pairs. Using this data, the computer learns to construct a model that can map new input data to the corresponding output and as well make predictions.
+ 
 ## Model justification
+ 
+ 
 </details>
 
 <details>
