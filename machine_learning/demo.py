@@ -2,8 +2,8 @@ import streamlit as st
 import pickle
 import os
 
-#load the model from the pickle file throught os
-model = pickle.load(open(os.path.join('optimum_model.pkl'),'rb'))
+#load the model from the pickle file
+model = pickle.load(open('optimum_model.pkl','rb'))
 
 
 # create a function that will take the inputs from the user
