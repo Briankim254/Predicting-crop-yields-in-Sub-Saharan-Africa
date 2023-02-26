@@ -145,6 +145,7 @@ To evaluate the model's overall performance, F1 score takes into account both pr
 
 <details>
 <summary><h1> Challenges Faced </h1></summary>
+
 1. Data Quality: One of the main challenges faced in creating this machine learning model was ensuring that the data used to train the model is of high quality. This included checking for missing values, outliers, and ensuring that the data was representative of the problem being solved.
 2. Data Quantity: Another challenge was getting enough data to train the model effectively. This was especially important for this complex model that required large amounts of data to learn patterns accurately.
 3. Model Selection: Choosing the right model for this problem was challenging. There are many types of machine learning models, and selecting the best one required a deep understanding of the problem and the available data.
