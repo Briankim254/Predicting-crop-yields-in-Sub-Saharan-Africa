@@ -66,6 +66,8 @@
 <summary><h1> Data Cleaning </h1></summary>
 
 ## Data cleaning process
+ 1. 
+ 
 ## Data cleaning outcomes
 </details>
 
@@ -73,10 +75,10 @@
 <summary><h1> Feature Engineering </h1></summary>
 
 ## Feature engineering process
- -Data cleansing.
- -Data transformation.
- -Feature extraction.
- -Feature selection.
+ - Data cleansing.
+ - Data transformation.
+ - Feature extraction.
+ - Feature selection.
  
 ## Features description
  
