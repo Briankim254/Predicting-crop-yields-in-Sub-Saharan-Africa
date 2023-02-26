@@ -89,7 +89,17 @@
  - Feature selection.
  
 ## Features description
- 
+ Independent variables:
+ 'YW'                                                
+ 'YP'                                                    
+ 'WPA'                           
+'YW_CV_TEMPORAL'               
+'YP_CV_TEMPORAL'                
+'YA_CV_TEMPORAL'                
+'CLIMATEZONE'               
+'AREA_IN_CLIMATEZONE_HA'
+
+Target variable is 'YA'
 </details>
 
 <details>
