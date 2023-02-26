@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import os
 
 #load the model from the pickle file
 model = pickle.load(open('optimum_model.pkl','rb'))
