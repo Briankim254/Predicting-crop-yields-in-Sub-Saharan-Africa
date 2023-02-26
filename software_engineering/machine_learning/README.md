@@ -1,6 +1,6 @@
 # Machine Learning Model to Predict Crop Yields in Sub-Saharan Africa
 ### Devs
-1.
+1.[Brian Kimutai](https://github.com/Briankim254)
 2.
 3.
 4. [Francis Mayieka](https://github.com/francis-100)
