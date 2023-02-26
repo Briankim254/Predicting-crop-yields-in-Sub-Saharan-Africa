@@ -118,8 +118,13 @@ Target variable is 'YA'
 - To evaluate the overall effectiveness of the model, F1 score, which combines precision and recall into one score, was utilized as the criterion. In order to provide a comprehensive assessment of the model's performance, it considers both precision and recall. The R2 score in a regression model measures the percentage of variance in the dependent variable that is explained by the independent variables.
 ## Metrics justification
  - A higher F1-score suggests that the model is performing better overall and check the model if it is overfitting.
+ 
 ## Results
+ -The model training accuracy was 87%. The F1 score which was 0.98. This means that the model was good.
+ 
 ## Conclusions
+ F1 score provides a balanced measure of metric. Propotion of correctly classified total number of instance datermines the accuracy.
+
 </details>
 
 <details>
