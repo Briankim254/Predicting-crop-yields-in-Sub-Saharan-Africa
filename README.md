@@ -132,7 +132,12 @@ To evaluate the model's overall performance, F1 score takes into account both pr
 <summary><h1> Model Deployment </h1></summary>
 
 ## Deployment model justification
+ Streamlit esily deploys machine learning models such as interactive web applications because it simplifies the development and deployment process, provides a Python-based API, and supports deployment to various platforms. It provides a built-in server, making it easy to test the application before deploying it. It also makes it easier for non-technical stakeholders to interact with the model and understand its outputs.
 ## Deployment process
+ 1. Preparing the Model: After developing a machine learning model, we prepared it for deployment. This involved saving the model in a file format that could be used by Streamlit.
+2. Creating a Streamlit Application: Wrote the application code using Streamlit's Python-based API. The application enables users to interact with the model.
+3. Deploy application: Deployed the application to Streamlit community cloud.
+4. Testing the Application: Tested the deployed application to ensure that it was working as expected.
 </details>
 
 <details>
