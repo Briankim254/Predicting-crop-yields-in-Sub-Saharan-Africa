@@ -12,7 +12,7 @@
 
 # FINANCIAL HACKER
 
-# Calculates budgets and helps one to manage their finances by managing their finances.
+# Calculates budgets and helps one to manage their finances by giving them tips on how to budget their cash.
 ![budget](https://user-images.githubusercontent.com/50330948/221390461-d9d61a51-21c6-4f95-b383-4c3ae7e1a2cd.png)
 
 @Haxor44
