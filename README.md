@@ -73,14 +73,24 @@
 <summary><h1> Feature Engineering </h1></summary>
 
 ## Feature engineering process
- -Data cleansing.
- -Data transformation.
- -Feature extraction.
- -Feature selection.
+ - Data cleansing.
+ - Data transformation.
+ - Feature extraction.
+ - Feature selection.
  
 ## Features description
- 
-</details>
+ Independent variables:
+ 'YW'                                                
+ 'YP'                                                    
+ 'WPA'                           
+'YW_CV_TEMPORAL'               
+'YP_CV_TEMPORAL'                
+'YA_CV_TEMPORAL'                
+'CLIMATEZONE'               
+'AREA_IN_CLIMATEZONE_HA'
+
+Target variable is 'YA'
+ </details>
 
 <details>
 <summary><h1> Model Development </h1></summary>
