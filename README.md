@@ -1,5 +1,5 @@
 
-# Luna Hacks: Solutions Repository
+# `Luna Hacks`: Solutions Repository
 Welcome to the Luna Hacks team repository, where we collaborate on creating diverse and innovative solutions for various challenges. Our aim is to develop a wide range of tools, applications, and services that make a positive impact on the world.
 
 ## Table of Contents
